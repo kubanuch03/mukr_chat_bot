@@ -1,12 +1,7 @@
 google-genai==1.13.0
-confluent-kafka==2.8.2
-SQLAlchemy==2.0.38
-transformers==4.49.0
-torch==2.6.0
-torchaudio==2.6.0
-torchvision==0.21.0
-fastapi==0.115.11
-uvicorn==0.34.0
+pyTelegramBotAPI==4.27.0
+python-telegram==0.19.0
+python-telegram-bot==22.0
 asyncio==3.4.3
 asyncpg==0.30.0
 alembic==1.15.1
